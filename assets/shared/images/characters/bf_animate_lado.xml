@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_animate_lado.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down_Note0000" x="14" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0001" x="14" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0002" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0003" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0004" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0005" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0006" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0007" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0008" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0009" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0010" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0011" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0012" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Down_Note0013" x="436" y="14" width="407" height="445"/>
+	<SubTexture name="Idle Dance0000" x="858" y="14" width="393" height="436"/>
+	<SubTexture name="Idle Dance0001" x="858" y="14" width="393" height="436"/>
+	<SubTexture name="Idle Dance0002" x="1266" y="14" width="393" height="436"/>
+	<SubTexture name="Idle Dance0003" x="1266" y="14" width="393" height="436"/>
+	<SubTexture name="Idle Dance0004" x="14" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0005" x="14" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0006" x="422" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0007" x="422" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0008" x="830" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0009" x="830" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0010" x="830" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0011" x="830" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0012" x="830" y="474" width="393" height="436"/>
+	<SubTexture name="Idle Dance0013" x="830" y="474" width="393" height="436"/>
+	<SubTexture name="Left_Pose0000" x="1238" y="474" width="412" height="473"/>
+	<SubTexture name="Left_Pose0001" x="1238" y="474" width="412" height="473"/>
+	<SubTexture name="Left_Pose0002" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0003" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0004" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0005" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0006" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0007" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0008" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0009" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0010" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0011" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0012" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Left_Pose0013" x="14" y="962" width="412" height="473"/>
+	<SubTexture name="Right_Note0000" x="441" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0001" x="441" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0002" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0003" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0004" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0005" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0006" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0007" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0008" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0009" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0010" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0011" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0012" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Right_Note0013" x="836" y="962" width="380" height="435"/>
+	<SubTexture name="Up_Note0000" x="1231" y="962" width="397" height="489"/>
+	<SubTexture name="Up_Note0001" x="1231" y="962" width="397" height="489"/>
+	<SubTexture name="Up_Note0002" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0003" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0004" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0005" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0006" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0007" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0008" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0009" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0010" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0011" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0012" x="14" y="1466" width="397" height="489"/>
+	<SubTexture name="Up_Note0013" x="14" y="1466" width="397" height="489"/>
+</TextureAtlas>

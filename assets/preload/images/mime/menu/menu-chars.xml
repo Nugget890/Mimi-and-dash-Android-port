@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu-chars.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="historymodeanims0000" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0001" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0002" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0003" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0004" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0005" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0006" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0007" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0008" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0009" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0010" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0011" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0012" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0013" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0014" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0015" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0016" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0017" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0018" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0019" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0020" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0021" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0022" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0023" x="1507" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0024" x="17" y="17" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0025" x="17" y="988" width="1378" height="863" frameX="-3" frameY="-15" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0026" x="17" y="988" width="1378" height="863" frameX="-3" frameY="-15" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0027" x="1495" y="988" width="1389" height="878" frameX="0" frameY="0" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0028" x="17" y="1966" width="1389" height="878" frameX="0" frameY="0" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0029" x="17" y="1966" width="1389" height="878" frameX="0" frameY="0" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0030" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0031" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0032" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0033" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0034" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0035" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0036" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0037" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0038" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0039" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0040" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0041" x="17" y="988" width="1378" height="863" frameX="-3" frameY="-15" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0042" x="17" y="988" width="1378" height="863" frameX="-3" frameY="-15" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0043" x="1495" y="988" width="1389" height="878" frameX="0" frameY="0" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0044" x="17" y="1966" width="1389" height="878" frameX="0" frameY="0" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0045" x="17" y="1966" width="1389" height="878" frameX="0" frameY="0" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0046" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0047" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0048" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0049" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0050" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0051" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0052" x="1506" y="1966" width="1389" height="870" frameX="-1" frameY="-8" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0053" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0054" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+	<SubTexture name="historymodeanims0055" x="17" y="2944" width="1390" height="871" frameX="0" frameY="-7" frameWidth="1390" frameHeight="878"/>
+</TextureAtlas>

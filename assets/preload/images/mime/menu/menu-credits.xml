@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="withoutpay-mdc-be-like.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="17" y="17" width="369" height="116"/>
+	<SubTexture name="idle0001" x="17" y="17" width="369" height="116"/>
+	<SubTexture name="idle0002" x="17" y="17" width="369" height="116"/>
+	<SubTexture name="idle0003" x="486" y="17" width="369" height="116"/>
+	<SubTexture name="idle0004" x="486" y="17" width="369" height="116"/>
+	<SubTexture name="idle0005" x="955" y="17" width="369" height="116"/>
+	<SubTexture name="selected0000" x="1424" y="17" width="369" height="120"/>
+	<SubTexture name="selected0001" x="17" y="237" width="369" height="120"/>
+	<SubTexture name="selected0002" x="17" y="237" width="369" height="120"/>
+	<SubTexture name="selected0003" x="17" y="237" width="369" height="120"/>
+	<SubTexture name="selected0004" x="486" y="237" width="369" height="120"/>
+	<SubTexture name="selected0005" x="486" y="237" width="369" height="120"/>
+	<SubTexture name="selected0006" x="486" y="237" width="369" height="120"/>
+	<SubTexture name="selected0007" x="955" y="237" width="369" height="120"/>
+	<SubTexture name="selected0008" x="955" y="237" width="369" height="120"/>
+	<SubTexture name="selected0009" x="955" y="237" width="369" height="120"/>
+	<SubTexture name="selected0010" x="955" y="237" width="369" height="120"/>
+	<SubTexture name="selected0011" x="955" y="237" width="369" height="120"/>
+	<SubTexture name="selected0012" x="955" y="237" width="369" height="120"/>
+	<SubTexture name="selected0013" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0014" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0015" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0016" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0017" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0018" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0019" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0020" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0021" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0022" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0023" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0024" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0025" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0026" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0027" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0028" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0029" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0030" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0031" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0032" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0033" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0034" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0035" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0036" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0037" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0038" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0039" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0040" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0041" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0042" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0043" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0044" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0045" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0046" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0047" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0048" x="17" y="457" width="369" height="120"/>
+	<SubTexture name="selected0049" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0050" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0051" x="1424" y="237" width="369" height="120"/>
+	<SubTexture name="selected0052" x="17" y="457" width="369" height="120"/>
+</TextureAtlas>
